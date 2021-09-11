@@ -2,7 +2,7 @@
 
 A simple app to text someone in WhatsApp without having to save their phone number to your contacts, made with Flutter.
 
-No Contact WA app v1 now available to download.
+No Contact WA app v1 now available to download. Visit Releases.
 
 Dependencies used:
 
