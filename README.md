@@ -10,4 +10,6 @@ android_intent_plus: ^2.0.0
 
 country_code_picker: ^2.0.2
 
+Privacy Note: NO DATA leaves your device.
+
 
